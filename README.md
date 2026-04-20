@@ -1,4 +1,6 @@
 # 🔐 SafeTrace
+<img width="936" height="470" alt="SafeTrace" src="https://github.com/user-attachments/assets/a8263719-1d46-4f09-bc76-101d69135dd0" />
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
