@@ -67,7 +67,7 @@ cd SafeTrace
 pip install -e .
 ```
 
-### From PyPI (coming soon)
+### From PyPI 
 
 ```bash
 pip install safetrace
